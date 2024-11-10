@@ -1,7 +1,7 @@
 Privacy Policy
 Effective Date: 2024-11-04
 
-Thank you for using WordHunt (the "App"). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and protect your data when you use our App.
+Thank you for using WordChase (the "App"). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and protect your data when you use our App.
 
 1. Information We Collect
 We collect the following types of data to provide and improve our services:
@@ -53,4 +53,4 @@ We may update this Privacy Policy from time to time. Any changes will be effecti
 8. Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-Email: wordhunt@impey.dev
+Email: wordchase@impey.dev
